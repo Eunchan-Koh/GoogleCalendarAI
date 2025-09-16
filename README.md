@@ -32,6 +32,7 @@ GOOGLE API - Calendar API</br>
 - create more agentic ais and create a manager ai, so try building hierarchical structure by myself.
 
 !!!.env file or environment variable settings are requried for:</br>
+
 GOOGLE_API_KEY <----- Not necessary yet</br>
 LANGSMITH_API_KEY <-- Only if you want to trace its process from langsmith</br>
 LANGSMITH_PROJECT</br>
@@ -39,6 +40,7 @@ LANGSMITH_TRACING_V2</br>
 OPEN_API_KEY <------- Must be set</br>
 
 !!! also needs to get:</br>
+
 credential.json <---- can be obtained from google cloud console</br>
 
 How To Use:

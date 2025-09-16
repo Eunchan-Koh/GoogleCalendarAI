@@ -25,7 +25,7 @@ GOOGLE API - Calendar API</br>
     - by realizing this, I could expect by myself of hierarchical agentic ai structure. Make AI agents that are specialized on each task, and giving task to their manager agent ai. I will try to make this project have such format in the future, creating more agentic ais
 
 # How it looks like...
-
+https://www.youtube.com/watch?v=TDvGk521RSU</br>
 
 # Plan (can be delayed)
 - add voice-to-text ai so these functions can be done using human voice. Adding tts can be beneficial since if that can be made, I don't really need to look into the screen to add a new schedule!

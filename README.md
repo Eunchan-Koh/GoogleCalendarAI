@@ -8,9 +8,9 @@ My first agentic ai project. I started studying how to create agentic Ai a week 
 I uses it often, and I wanted to create an agentic ai by myself to study about it. This was the first thing I could thought of as a small ai project.
 
 # Used...
-LangChain
-OpenAI
-GOOGLE API - Calendar API
+LangChain</br>
+OpenAI</br>
+GOOGLE API - Calendar API</br>
 
 # Goal is to...
 - create an agentic ai that adds/deletes events on my google calendar

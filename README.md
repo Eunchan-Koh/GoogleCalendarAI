@@ -2,7 +2,7 @@
 add/delete/check my google calendar's events via gpt-4.1-nano(chatting)
 
 # this is....
-My first agentic ai project. I started studying how to create agentic Ai a week ago.
+My first agentic ai project. I started studying how to create agentic Ai a week ago.(started Sept 9th, 2025.)
 
 # Why google calendar ai?
 I uses it often, and I wanted to create an agentic ai by myself to study about it. This was the first thing I could thought of as a small ai project.

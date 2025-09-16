@@ -31,15 +31,15 @@ GOOGLE API - Calendar API</br>
 - add voice-to-text ai so these functions can be done using human voice. Adding tts can be beneficial since if that can be made, I don't really need to look into the screen to add a new schedule!
 - create more agentic ais and create a manager ai, so try building hierarchical structure by myself.
 
-!!!.env file or environment variable settings are requried for:
-GOOGLE_API_KEY <----- Not necessary yet
-LANGSMITH_API_KEY <-- Only if you want to trace its process from langsmith
-LANGSMITH_PROJECT
-LANGSMITH_TRACING_V2
-OPEN_API_KEY <------- Must be set
+!!!.env file or environment variable settings are requried for:</br>
+GOOGLE_API_KEY <----- Not necessary yet</br>
+LANGSMITH_API_KEY <-- Only if you want to trace its process from langsmith</br>
+LANGSMITH_PROJECT</br>
+LANGSMITH_TRACING_V2</br>
+OPEN_API_KEY <------- Must be set</br>
 
-!!! also needs to get:
-credential.json <---- can be obtained from google cloud console
+!!! also needs to get:</br>
+credential.json <---- can be obtained from google cloud console</br>
 
 How To Use:
 1. needs to add yourself into your google cloud's project test user
